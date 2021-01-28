@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://waw255.github.io/waw255</id>
     <title>拧不开的气泡水 • Posts by &#34;游戏&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://waw255.github.io/waw255" />
     <updated>2021-01-28T17:22:00.000Z</updated>
     <category term="我的世界" />
     <category term="服务器" />
     <entry>
-        <id>http://example.com/2021/01/29/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+        <id>https://waw255.github.io/waw255/2021/01/29/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
         <title>ZPLUS SERVER服务器</title>
-        <link rel="alternate" href="http://example.com/2021/01/29/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+        <link rel="alternate" href="https://waw255.github.io/waw255/2021/01/29/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
         <content type="html">&lt;h1 id=&#34;服务器发展情况&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#服务器发展情况&#34;&gt;#&lt;/a&gt; 服务器发展情况&lt;/h1&gt;
 &lt;p&gt;很不乐观，所以希望以后能弄出更好的游玩机制给大家体验&lt;/p&gt;
 &lt;h1 id=&#34;关于这个网站&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#关于这个网站&#34;&gt;#&lt;/a&gt; 关于这个网站&lt;/h1&gt;
