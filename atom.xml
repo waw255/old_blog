@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://waw255.github.io</id>
+    <id>https://waw2.icu</id>
     <title>拧不开的气泡水</title>
     <subtitle></subtitle>
-    <icon>https://waw255.github.io/images/favicon.ico</icon>
-    <link href="https://waw255.github.io" />
+    <icon>https://waw2.icu/images/favicon.ico</icon>
+    <link href="https://waw2.icu" />
     <author>
       <name>Sparkling Water</name>
     </author>
     <updated>2021-01-29T15:17:51.000Z</updated>
     <entry>
-        <id>https://waw255.github.io/2021/01/29/Test/</id>
+        <id>https://waw2.icu/2021/01/29/Test/</id>
         <title>Test</title>
-        <link rel="alternate" href="https://waw255.github.io/2021/01/29/Test/"/>
+        <link rel="alternate" href="https://waw2.icu/2021/01/29/Test/"/>
         <content type="html">&lt;p&gt;测试用的文章&lt;/p&gt;
 </content>
         <updated>2021-01-29T15:17:51.000Z</updated>
     </entry>
     <entry>
-        <id>https://waw255.github.io/2021/01/29/message/ZPLUS/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+        <id>https://waw2.icu/2021/01/29/message/ZPLUS/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
         <title>ZPLUS SERVER</title>
-        <link rel="alternate" href="https://waw255.github.io/2021/01/29/message/ZPLUS/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+        <link rel="alternate" href="https://waw2.icu/2021/01/29/message/ZPLUS/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
         <content type="html">&lt;h1 id=&#34;关于这个网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于这个网站&#34;&gt;#&lt;/a&gt; 关于这个网站&lt;/h1&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;由&lt;span class=&#34;label warning&#34;&gt; [技术 &amp;amp; 事务] Sparkling_Water (原 waw2，改名了)&lt;/span&gt; 建立。&lt;br /&gt;
@@ -80,10 +80,10 @@ wt.huafia.win:34742&lt;/li&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;祝您寒假玩得愉快～～～！&lt;/p&gt;
 </content>
-        <category term="信息" scheme="https://waw255.github.io/categories/message/" />
-        <category term="ZPLUS服务器" scheme="https://waw255.github.io/categories/message/ZPLUS/" />
-        <category term="我的世界" scheme="https://waw255.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/" />
-        <category term="服务器" scheme="https://waw255.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/" />
+        <category term="信息" scheme="https://waw2.icu/categories/message/" />
+        <category term="ZPLUS服务器" scheme="https://waw2.icu/categories/message/ZPLUS/" />
+        <category term="我的世界" scheme="https://waw2.icu/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/" />
+        <category term="服务器" scheme="https://waw2.icu/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/" />
         <updated>2021-01-28T17:22:00.000Z</updated>
     </entry>
 </feed>
