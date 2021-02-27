@@ -7,6 +7,44 @@
     "home_page_url": "https://waw255.github.io",
     "items": [
         {
+            "id": "https://waw255.github.io/2021/02/22/%E4%BB%A3%E7%A0%81%E5%BF%83%E5%BE%97%E6%9D%82%E8%B0%88/",
+            "url": "https://waw255.github.io/2021/02/22/%E4%BB%A3%E7%A0%81%E5%BF%83%E5%BE%97%E6%9D%82%E8%B0%88/",
+            "title": "代码心得杂谈",
+            "date_published": "2021-02-22T05:30:47.000Z",
+            "content_html": "<h1 id=\"开篇-企业家与程序员的矛盾\"><a class=\"anchor\" href=\"#开篇-企业家与程序员的矛盾\">#</a> 开篇 - 企业家与程序员的矛盾</h1>\n<ul>\n<li>\n<p>企业家</p>\n<p>完美是他们的追求</p>\n<p>可现在的企业家眼里，效率就是金钱，不管你代码好不好，只要能成功实现这个功能就行了。</p>\n<p>这是大部分企业家类似的想法。</p>\n<p>这并不完美</p>\n</li>\n<li>\n<p>程序员</p>\n<p>在偏执程序员眼里，运行效率的提高、代码量的缩短是追求完美的一部分</p>\n<p>但却无法实现</p>\n</li>\n</ul>\n<hr />\n<p>他们的矛盾迎来说不清的碰撞。<strong>删库跑路</strong>、<strong>开后台</strong>、将已经解决的方案拆分为好几个方案去实现等等....</p>\n<p>对他们来说，这是一场谈判，没有硝烟的谈判。</p>\n<p>在这明人不说暗话的市场下，各个带上了面具。我们又如何去进入这个市场的纠纷？</p>\n<blockquote>\n<p><em>我也不懂。233333....</em></p>\n</blockquote>\n<hr />\n<p>所以有了这个<strong>心得体会</strong>。</p>\n<p>以后遇到一些我觉得不错的感悟或者是经历，都会写上来的。</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://waw255.github.io/2021/02/11/android/course/base/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%B1%9E%E6%80%A7%E8%AE%BE%E7%BD%AE/",
+            "url": "https://waw255.github.io/2021/02/11/android/course/base/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%B1%9E%E6%80%A7%E8%AE%BE%E7%BD%AE/",
+            "title": "Android 基础-UI属性使用介绍",
+            "date_published": "2021-02-11T08:08:35.000Z",
+            "content_html": "<h1 id=\"activity_mainxml\"><a class=\"anchor\" href=\"#activity_mainxml\">#</a> activity_main.xml</h1>\n<p>这个是关于 Android studio 的 UI 文件</p>\n<h1 id=\"布局类型\"><a class=\"anchor\" href=\"#布局类型\">#</a> 布局类型</h1>\n<p>有 线性布局、相对布局与约束性布局 每个的 UI 设计属性略有不同，待我细细道来～～</p>\n<h1 id=\"控件\"><a class=\"anchor\" href=\"#控件\">#</a> 控件</h1>\n<h2 id=\"控件通用属性\"><a class=\"anchor\" href=\"#控件通用属性\">#</a> 控件通用属性</h2>\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">属性</th>\n<th style=\"text-align:center\">作用</th>\n<th style=\"text-align:center\">值</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">layout_width</td>\n<td style=\"text-align:center\">控制控件宽度</td>\n<td style=\"text-align:center\">match_parent 或者 自定义 dp</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">layout_height</td>\n<td style=\"text-align:center\">控制控件高度</td>\n<td style=\"text-align:center\">match_parent 或者 自定义 dp</td>\n</tr>\n</tbody>\n</table>\n",
+            "tags": [
+                "安卓",
+                "基础",
+                "实用",
+                "教程",
+                "常见",
+                "基础",
+                "简单",
+                "Android",
+                "安卓",
+                "UI",
+                "控件",
+                "java",
+                "studio",
+                "开发",
+                "前端",
+                "XML",
+                "布局",
+                "约束性",
+                "线性",
+                "规范",
+                "书写"
+            ]
+        },
+        {
             "id": "https://waw255.github.io/2021/02/02/menu/link/friend/",
             "url": "https://waw255.github.io/2021/02/02/menu/link/friend/",
             "title": "友情链接",
@@ -47,7 +85,7 @@
             "url": "https://waw255.github.io/2021/01/29/message/ZPLUS/ZPLUS-SERVER%E6%9C%8D%E5%8A%A1%E5%99%A8/",
             "title": "ZPLUS SERVER",
             "date_published": "2021-01-28T17:22:00.000Z",
-            "content_html": "<h1 id=\"关于这个网站\"><a class=\"anchor\" href=\"#关于这个网站\">#</a> 关于这个网站</h1>\n<div class=\"note info\">\n<p>由<span class=\"label warning\"> [技术 &amp; 事务] Sparkling_Water (原 waw2，改名了)</span> 建立。<br />\n方便发布一些新的公告和通知。</p>\n</div>\n<h1 id=\"关于白名单\"><a class=\"anchor\" href=\"#关于白名单\">#</a> 关于白名单</h1>\n<ul class=\"task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"cbx_0\" disabled=\"true\" /><label for=\"cbx_0\"> 现在暂时取消，后面打算开发独立的白名单玩家和非白名单玩家的不同游玩机制</label></li>\n</ul>\n<h1 id=\"关于新地址\"><a class=\"anchor\" href=\"#关于新地址\">#</a> 关于新地址</h1>\n<div class=\"note primary\">\n<ul>\n<li>由原来的地址<br />\n king.huafid.top:34742<br />\nwt.huafia.win:34742</li>\n<li>添加新的地址<br />\n<span class=\"label success\">✔️play.waw2.icu</span><br />\n<span class=\"label success\">✔️lt.waw2.icu</span></li>\n</ul>\n</div>\n<h1 id=\"关于服务器版本\"><a class=\"anchor\" href=\"#关于服务器版本\">#</a> 关于服务器版本</h1>\n<h2 id=\"1165版本\"><a class=\"anchor\" href=\"#1165版本\">#</a> 1.16.5 版本</h2>\n<blockquote>\n<p>1：更换了服务器地址<br />\n 2：取消了地皮机制<br />\n 3：开启死亡掉落<br />\n 4：增加防矿透机制<br />\n 5：限制地图范围</p>\n</blockquote>\n<h3 id=\"地图范围\"><a class=\"anchor\" href=\"#地图范围\">#</a> 地图范围</h3>\n<div class=\"note danger no-icon\">\n<ul class=\"task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"cbx_1\" disabled=\"true\" /><label for=\"cbx_1\"> 未定！<br />\n地狱：？<br />\n主世界：？<br />\n下届：？</label></li>\n</ul>\n</div>\n<h2 id=\"1161版本\"><a class=\"anchor\" href=\"#1161版本\">#</a> 1.16.1 版本</h2>\n<ul>\n<li>没有什么更新</li>\n</ul>\n<h1 id=\"xplus20整合包\"><a class=\"anchor\" href=\"#xplus20整合包\">#</a> XPlus2.0 整合包</h1>\n<p>这些是 Wudji 作者的一些简单整合包。<br />\n1.16.5 版本<br />\n作者发布的论坛地址<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubWNiYnMubmV0L3RocmVhZC05MzYxOTgtMS0xLmh0bWw=\">下载地址</span></p>\n<h1 id=\"服务器目前状况\"><a class=\"anchor\" href=\"#服务器目前状况\">#</a> 服务器目前状况</h1>\n<p>正在施工中...<br />\n 很快就能正常游玩了。</p>\n<h1 id=\"服务器地址\"><a class=\"anchor\" href=\"#服务器地址\">#</a> 服务器地址</h1>\n<blockquote>\n<p>多线:play.waw2.icu<br />\n 联通:lt.waw2.icu<br />\n<s class=\"danger\"> 多线:king.huafid.top:34742</s><br />\n<s class=\"danger\"> 联通:wt.huafia.win:34742</s></p>\n</blockquote>\n<p>祝您寒假玩得愉快～～～！</p>\n",
+            "content_html": "<h1 id=\"关于这个网站\"><a class=\"anchor\" href=\"#关于这个网站\">#</a> 关于这个网站</h1>\n<div class=\"note info\">\n<p>由<span class=\"label warning\"> [技术 &amp; 事务] Sparkling_Water (原 waw2，改名了)</span> 建立。<br />\n方便发布一些新的公告和通知。</p>\n</div>\n<h1 id=\"关于白名单\"><a class=\"anchor\" href=\"#关于白名单\">#</a> 关于白名单</h1>\n<ul class=\"task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"cbx_0\" disabled=\"true\" /><label for=\"cbx_0\"> 现在暂时取消，后面打算开发独立的白名单玩家和非白名单玩家的不同游玩机制</label></li>\n</ul>\n<h1 id=\"关于新地址\"><a class=\"anchor\" href=\"#关于新地址\">#</a> 关于新地址</h1>\n<div class=\"note primary\">\n<ul>\n<li>由原来的地址<br />\n king.huafid.top:34742<br />\nwt.huafia.win:34742</li>\n<li>添加新的地址<br />\n<span class=\"label success\">✔️play.waw2.icu</span><br />\n<span class=\"label success\">✔️lt.waw2.icu</span></li>\n</ul>\n</div>\n<h1 id=\"关于服务器版本\"><a class=\"anchor\" href=\"#关于服务器版本\">#</a> 关于服务器版本</h1>\n<h2 id=\"1165版本\"><a class=\"anchor\" href=\"#1165版本\">#</a> 1.16.5 版本</h2>\n<blockquote>\n<p>1：更换了服务器地址<br />\n 2：取消了地皮机制<br />\n 3：开启死亡掉落<br />\n 4：增加防矿透机制<br />\n 5：限制地图范围</p>\n</blockquote>\n<h3 id=\"地图范围\"><a class=\"anchor\" href=\"#地图范围\">#</a> 地图范围</h3>\n<div class=\"note danger no-icon\">\n<ul class=\"task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"cbx_1\" disabled=\"true\" /><label for=\"cbx_1\"> 未定！<br />\n地狱：？<br />\n主世界：？<br />\n下届：？</label></li>\n</ul>\n</div>\n<h2 id=\"1161版本\"><a class=\"anchor\" href=\"#1161版本\">#</a> 1.16.1 版本</h2>\n<ul>\n<li>没有什么更新</li>\n</ul>\n<h1 id=\"xplus20整合包\"><a class=\"anchor\" href=\"#xplus20整合包\">#</a> XPlus2.0 整合包</h1>\n<p>这些是 Wudji 作者的一些简单整合包。<br />\n1.16.5 版本<br />\n作者发布的论坛地址<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cubWNiYnMubmV0L3RocmVhZC05MzYxOTgtMS0xLmh0bWw=\">下载地址</span></p>\n<h1 id=\"服务器目前状况\"><a class=\"anchor\" href=\"#服务器目前状况\">#</a> 服务器目前状况</h1>\n<p>可以进行游完，但是还需要一些改进。</p>\n<h1 id=\"服务器地址\"><a class=\"anchor\" href=\"#服务器地址\">#</a> 服务器地址</h1>\n<blockquote>\n<p>多线:play.waw2.icu<br />\n 联通:lt.waw2.icu<br />\n<s class=\"danger\"> 多线:king.huafid.top:34742</s><br />\n<s class=\"danger\"> 联通:wt.huafia.win:34742</s></p>\n</blockquote>\n<p>祝您寒假玩得愉快～～～！</p>\n",
             "tags": [
                 "信息",
                 "ZPLUS服务器",
